@@ -1,6 +1,6 @@
 # Efficient-Data-Preprocessing-Techniques
 
-This Project analysis and implementation cover several important aspects of preprocessing and modeling in a dataset with missing values and outliers. Here’s a detailed breakdown of what you’ve done, along with some suggestions for improvement:
+This Project analysis and implementation cover several important aspects of preprocessing and modeling in a dataset with missing values and outliers. Here’s a detailed breakdown of what I have done:
 
 ## 1. Encoding:
  - <b>RoadTrafficDensity:</b> Used Ordinal Encoding due to its natural ordering (Low, Medium, High, Jam).
